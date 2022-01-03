@@ -12,4 +12,4 @@ https://learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-python/
 
 my youtube channel
 
-https://youtu.be/fxCBX6SJlj0
+https://youtu.be/QGcUW_vUmoQ
