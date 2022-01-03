@@ -8,3 +8,8 @@ https://www.youtube.com/watch?v=C0BMx-qxsP4
 for further reading
 
 https://learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-python/
+
+
+my youtube channel
+
+https://youtu.be/fxCBX6SJlj0
